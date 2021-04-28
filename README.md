@@ -1,8 +1,8 @@
 # Hosereel Knob
 
-This design is a replacement knob for a wall mounted hose reel marketed by Kingfisher.
+This design is a replacement knob for a wall mounted hose reel marketed by [Bonnington Plastics](https://bonningtons.com/) / Kingfisher.
 
-The same or similar products are also available under the Marksman and Gardenpro branding.
+The same or similar products are available under the Kingfisher, GardenPro, and Marksman branding.
 
 * Kingfisher / GardenPro 615PRO
 * Marksman 20m Hose Reel Set 70143C
